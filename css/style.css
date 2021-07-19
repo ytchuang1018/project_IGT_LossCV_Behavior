@@ -1,0 +1,77 @@
+html, body {
+  font-family: 'Times New Roman', 'sans-serif';
+  color: #FFFFFF;
+  background-color: rgb(0,0,0);
+}
+
+
+#text {
+	font-family: 'Times New Roman', 'PMingLiU;';
+	font-size: 30px;
+	margin-top: 50px;
+	visibility: visible;
+}
+
+#text1 {
+	font-family: 'Times New Roman', 'PMingLiU;';
+	font-size: 30px;
+	margin-top: 50px;
+	visibility: visible;
+}
+
+#button{
+	font-family: 'Times New Roman', 'PMingLiU;';
+	background-color:#cc0000;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	font-size: 30px;
+	position: relative;
+	visibility: visible;
+}
+
+#button_start ,#button_final {
+	font-family: 'Times New Roman', 'PMingLiU;';
+	background-color:#cc0000;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	font-size: 30px;
+	position: relative;
+	visibility: hidden;
+}
+
+#table {
+	visibility: hidden;
+	table-layout: fixed;
+}
+
+#button1, #button2, #button3, #button4 {
+	font-family: 'Times New Roman', 'PMingLiU;';
+	background-color:rgb(0,0,0);
+	font-weight:bold;
+	border: 0;
+	text-align:center;
+	font-size: 30px;
+	position: relative;
+}
+
+#feedback1, #feedback2, #feedback3, #feedback4 {
+	left:8px; 
+	top:55px; 
+	width:153px; 
+	height:233px; 
+	font-size:40px; 
+	position: absolute;
+	visibility: hidden;
+}
+
+#input_name_section,#input_age_section,#input_exp_section,#input_freq_section, #input_sex_section {
+	font-size:20px; 
+	font-family: 'Times New Roman', 'PMingLiU;';
+	margin-top: 20px;
+	margin-left: 30%;
+	visibility: visible;
+}
