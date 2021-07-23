@@ -2,3 +2,5 @@
 IGT內含四個選項(A、B、C、D)主要是在動態的選擇中，不定時的給予受試者賞酬與懲罰。壞牌之期望值加總為-250，好牌期望值加總為250。
 
 ![image](https://github.com/ytchuang1018/project_IGT_LossCV_Behavior/blob/main/intro.PNG)
+
+以php呈現網頁實驗及連mysql, 再以javascript判斷按鍵, 呈現翻牌的動畫, 最後儲存結果到mysql資料庫
